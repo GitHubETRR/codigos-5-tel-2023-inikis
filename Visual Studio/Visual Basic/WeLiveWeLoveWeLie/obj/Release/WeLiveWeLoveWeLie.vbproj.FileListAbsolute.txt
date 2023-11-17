@@ -1,0 +1,13 @@
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\WeLiveWeLoveWeLie\bin\Release\WeLiveWeLoveWeLie.exe.config
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\WeLiveWeLoveWeLie\bin\Release\WeLiveWeLoveWeLie.exe
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\WeLiveWeLoveWeLie\bin\Release\WeLiveWeLoveWeLie.pdb
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\WeLiveWeLoveWeLie\bin\Release\WeLiveWeLoveWeLie.xml
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\WeLiveWeLoveWeLie\obj\Release\WeLiveWeLoveWeLie.vbproj.AssemblyReference.cache
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\WeLiveWeLoveWeLie\obj\Release\WeLiveWeLoveWeLie.Form1.resources
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\WeLiveWeLoveWeLie\obj\Release\WeLiveWeLoveWeLie.Form2.resources
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\WeLiveWeLoveWeLie\obj\Release\WeLiveWeLoveWeLie.Resources.resources
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\WeLiveWeLoveWeLie\obj\Release\WeLiveWeLoveWeLie.vbproj.GenerateResource.cache
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\WeLiveWeLoveWeLie\obj\Release\WeLiveWeLoveWeLie.vbproj.CoreCompileInputs.cache
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\WeLiveWeLoveWeLie\obj\Release\WeLiveWeLoveWeLie.exe
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\WeLiveWeLoveWeLie\obj\Release\WeLiveWeLoveWeLie.xml
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\WeLiveWeLoveWeLie\obj\Release\WeLiveWeLoveWeLie.pdb

@@ -1,0 +1,14 @@
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\ProbandoVisualStudio\bin\Release\ProbandoVisualStudio.exe.config
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\ProbandoVisualStudio\bin\Release\ProbandoVisualStudio.exe
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\ProbandoVisualStudio\bin\Release\ProbandoVisualStudio.pdb
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\ProbandoVisualStudio\bin\Release\ProbandoVisualStudio.xml
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\ProbandoVisualStudio\obj\Release\ProbandoVisualStudio.vbproj.AssemblyReference.cache
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\ProbandoVisualStudio\obj\Release\ProbandoVisualStudio.Main.resources
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\ProbandoVisualStudio\obj\Release\ProbandoVisualStudio.AcercaDe.resources
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\ProbandoVisualStudio\obj\Release\ProbandoVisualStudio.Resources.resources
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\ProbandoVisualStudio\obj\Release\ProbandoVisualStudio.Pepsi.resources
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\ProbandoVisualStudio\obj\Release\ProbandoVisualStudio.vbproj.GenerateResource.cache
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\ProbandoVisualStudio\obj\Release\ProbandoVisualStudio.vbproj.CoreCompileInputs.cache
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\ProbandoVisualStudio\obj\Release\ProbandoVisualStudio.exe
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\ProbandoVisualStudio\obj\Release\ProbandoVisualStudio.xml
+C:\Users\imena\OneDrive - Escuela Tecnica Roberto Rocca\5\Materias\lenguajes5etrr\Visual Studio\Visual Basic\ProbandoVisualStudio\obj\Release\ProbandoVisualStudio.pdb
