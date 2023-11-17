@@ -152,6 +152,6 @@ int numero_al_azar(int linf, int lsup){
   
 }
 
-int pelea(monster_t[], int monster1, int monster2){
+int pelea(monster_t monstruos[], int monster1, int monster2){
   
 }
